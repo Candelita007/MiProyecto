@@ -1,2 +1,3 @@
 Contenido del primer archivo
 Más contenido en el archivo
+Corrección de errores
